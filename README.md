@@ -1,6 +1,6 @@
 # Snap Shot
 
-[Demo of Snap Shot](https://yog9.github.io/SnapShot/)
+[Demo of Snap Shot](https://aprakash30.github.io/SnapShot/#/SnapScout/mountain)
 
 ![](/snapscout.png)
 
